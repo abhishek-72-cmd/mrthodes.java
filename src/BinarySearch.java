@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class BinarySearch {
     public static void main(String[] args) {
+
+        // Kiran Zinjade
         int arr[] = {2,4,6,8,10,12,14,16,18};
         int start = 0;
         int end = arr.length-1;
